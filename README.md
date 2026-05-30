@@ -2,6 +2,7 @@
 
 ---
 **Description** 
+
 Includes common operations such as +,-,*,/, and square root. 
 Displays the result in integer form. 
 
